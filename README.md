@@ -3,15 +3,15 @@ angular-ellipsis
 
 Angular directive to truncate multi-line text to visible height.  The end of the visible text is appended with an ellipsis, optional text, and optional click callback function.
    
-To use, copy *src/angular-ellipsis.js* to your project and rename the included module (which is set to 'exampleApp' at the bottom) to your own module.
+To use, copy *src/inmoment.angular-ellipsis.js* to your project and rename the included module (which is set to 'exampleApp' at the bottom) to your own module.
 
 Or, to install via Bower:
 ```javascript
-bower install angular-ellipsis
+bower install inmoment.angular-ellipsis
 ```
 and then inject into your app:
 ```javascript
-var myApp = angular.module('myApp', ['dibari.angular-ellipsis']);
+var myApp = angular.module('myApp', ['inmoment.angular-ellipsis']);
 ```
 
 DEMO
