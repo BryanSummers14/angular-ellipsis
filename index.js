@@ -1,2 +1,2 @@
-require('./src/angular-ellipsis');
-module.exports = 'dibari.angular-ellipsis';
+require('./src/inmoment.angular-ellipsis');
+module.exports = 'inmoment.angular-ellipsis';
