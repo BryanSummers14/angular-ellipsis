@@ -13,7 +13,7 @@
  *	@example <p data-ellipsis data-ng-bind="boundData" data-ellipsis-append="read more" data-ellipsis-append-click="displayFull()"></p>
  *
  */
-angular.module('dibari.angular-ellipsis', [])
+angular.module('inmoment.angular-ellipsis', [])
 
 .directive('ellipsis', ['$timeout', '$window', '$sce', function($timeout, $window, $sce) {
 
